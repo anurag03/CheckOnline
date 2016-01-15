@@ -1,8 +1,8 @@
-#!bash
-a=`ping 0 -c 1`
-echo "$a"
-if [ "$a" =~ "loss" ]; then
-	echo "Your Friend is Offline."
-else
-	echo "Your Friend is Online."
-fi
+#!/bin/bash
+a="100% packet loss"
+while [[ "$a" =~ "100% packet loss" ]]
+do
+a=`ping 192.168.1.108 -c 1`
+done
+echo "Your Friend is Online."
+exit 0
