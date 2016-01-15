@@ -10,3 +10,4 @@ Steps to run the code
 
 2 : bash ./project.sh
 
+Author : Anurag Sinha
