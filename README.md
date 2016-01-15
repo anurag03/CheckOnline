@@ -6,6 +6,7 @@ This can be used if you know the ip address of your friend in the same LAN.
 
 Steps to run the code
 
-1) chmod +x project.sh
-2) bash ./project.sh
+1 : chmod +x project.sh
+
+2 : bash ./project.sh
 
