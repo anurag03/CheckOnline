@@ -1,7 +1,7 @@
-### CheckOnline
-This script will help you to check the online status of your friend.
+### NotifyOnline
+This script will help you to Notify when your friend comes online.
 
-This is a shell script using ping command to know that your friend is online or not.
+This is a shell script using ping command to know that your friend is online.
 This can be used if you know the ip address of your friend.
 
 Steps to run the code
